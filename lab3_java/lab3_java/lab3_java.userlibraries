@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.annotation.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.jms.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.ejb.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.resource.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.persistence.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.servlet.jsp.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.servlet.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/javax.transaction.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/angus-activation.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jakarta.activation-api.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jakarta.xml.bind-api.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jaxb-core.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jaxb-impl-4.0.1.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jaxb-impl.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jaxb-jxc.jar" />
+    <archive path="D:/dev/java/lab3_java/lab3_java/lib/jaxb-xjc.jar" />
+  </library>
+</eclipse-userlibraries>
+
